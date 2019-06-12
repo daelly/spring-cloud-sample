@@ -10,6 +10,9 @@
         <module>eureka-consumer</module>
         <module>config-server</module>
         <module>config-client</module>
+        <module>eureka-producer-hystrix</module>
+        <module>eureka-consumer-ribbon</module>
+        <module>eureka-consumer-ribbon-hystrix</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
